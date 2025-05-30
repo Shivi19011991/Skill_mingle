@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skill_mingle/static/css/main.e6c13ad2.css",
+    "main.js": "/Skill_mingle/static/js/main.5752e89c.js",
+    "static/js/453.8ab44547.chunk.js": "/Skill_mingle/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Skill_mingle/index.html",
+    "main.e6c13ad2.css.map": "/Skill_mingle/static/css/main.e6c13ad2.css.map",
+    "main.5752e89c.js.map": "/Skill_mingle/static/js/main.5752e89c.js.map",
+    "453.8ab44547.chunk.js.map": "/Skill_mingle/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5752e89c.js"
+  ]
+}
